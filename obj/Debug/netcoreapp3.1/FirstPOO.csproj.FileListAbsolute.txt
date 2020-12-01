@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\FirstPOO\bin\Debug\netcoreapp3.1\FirstPOO.exe
+C:\Users\dev\Desktop\FirstPOO\bin\Debug\netcoreapp3.1\FirstPOO.deps.json
+C:\Users\dev\Desktop\FirstPOO\bin\Debug\netcoreapp3.1\FirstPOO.runtimeconfig.json
+C:\Users\dev\Desktop\FirstPOO\bin\Debug\netcoreapp3.1\FirstPOO.runtimeconfig.dev.json
+C:\Users\dev\Desktop\FirstPOO\bin\Debug\netcoreapp3.1\FirstPOO.dll
+C:\Users\dev\Desktop\FirstPOO\bin\Debug\netcoreapp3.1\FirstPOO.pdb
+C:\Users\dev\Desktop\FirstPOO\obj\Debug\netcoreapp3.1\FirstPOO.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\FirstPOO\obj\Debug\netcoreapp3.1\FirstPOO.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\FirstPOO\obj\Debug\netcoreapp3.1\FirstPOO.AssemblyInfo.cs
+C:\Users\dev\Desktop\FirstPOO\obj\Debug\netcoreapp3.1\FirstPOO.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\FirstPOO\obj\Debug\netcoreapp3.1\FirstPOO.dll
+C:\Users\dev\Desktop\FirstPOO\obj\Debug\netcoreapp3.1\FirstPOO.pdb
+C:\Users\dev\Desktop\FirstPOO\obj\Debug\netcoreapp3.1\FirstPOO.genruntimeconfig.cache
